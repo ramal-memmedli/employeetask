@@ -1,0 +1,16 @@
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\bin\Debug\net5.0\EmployeeTask.exe
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\bin\Debug\net5.0\EmployeeTask.deps.json
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\bin\Debug\net5.0\EmployeeTask.runtimeconfig.json
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\bin\Debug\net5.0\EmployeeTask.runtimeconfig.dev.json
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\bin\Debug\net5.0\EmployeeTask.dll
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\bin\Debug\net5.0\EmployeeTask.pdb
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\obj\Debug\net5.0\EmployeeTask.csproj.AssemblyReference.cache
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\obj\Debug\net5.0\EmployeeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\obj\Debug\net5.0\EmployeeTask.AssemblyInfoInputs.cache
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\obj\Debug\net5.0\EmployeeTask.AssemblyInfo.cs
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\obj\Debug\net5.0\EmployeeTask.csproj.CoreCompileInputs.cache
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\obj\Debug\net5.0\EmployeeTask.dll
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\obj\Debug\net5.0\refint\EmployeeTask.dll
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\obj\Debug\net5.0\EmployeeTask.pdb
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\obj\Debug\net5.0\EmployeeTask.genruntimeconfig.cache
+C:\Users\Ramal\Desktop\C# Practics\EmployeeTask\EmployeeTask\obj\Debug\net5.0\ref\EmployeeTask.dll
